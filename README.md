@@ -90,3 +90,18 @@ The frontend will start on **[http://localhost:5173](http://localhost:5173)**.
 ## Notes
 
 - Make sure that the backend (PocketBase) is running before using the frontend.
+
+## Screenshots
+
+### Guest List
+![Guest List]
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/62519a6f-c189-46c6-aa1e-c0ffcf48bc6a" />
+
+### Add New Guest
+![Add Guest Form]
+<img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/e4aa399b-fb82-4479-98ea-b4331d12b856" />
+
+### Guest Detail / Edit
+![Guest Detail]
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/be5d9d9e-0913-4e1e-b7ed-0ff9b2892a70" />
+
